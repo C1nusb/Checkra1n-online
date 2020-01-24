@@ -3,6 +3,8 @@ C1nusb for online Checkra1n
 
 ======================///////////////======================
 
+See video guide here : https://www.youtube.com/watch?v=YipsBm7hpms   
+
 👁👁 We recommend you need to have an iPhone Flash Drive before run this process.
 
 Step1 : Connect your iPhone Flash Drive into your Mac or Windows PC
